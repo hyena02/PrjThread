@@ -6,6 +6,7 @@ public class BeepTaskThread3 {
 	public static void main(String[] args) {
 
 // 람다식	- interface 에 추상 method 1개일 때 사용가능 (implement 할 때)
+//    =>  짧고 단순할 때만 쓰는게 좋다 !
 // 익명클래스 1개이상 2개 - ex) IPO
 		
 		
